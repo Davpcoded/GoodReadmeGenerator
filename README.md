@@ -4,7 +4,7 @@
 ## GitHub: (https://github.com/Davpcoded)
 ## Description
 A CLI app that speeds up the proccess of creating a good markdown file
-![image] (https://github.com/Davpcoded/GoodReadmeGenerator/blob/master/Assets/Screenshot%20(36).png)
+![image](https://github.com/Davpcoded/Day-planner/blob/master/Assets/Images/Work%20Day%20Scheduler.gif)
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
